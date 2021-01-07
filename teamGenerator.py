@@ -1,3 +1,5 @@
+# I wrote this function to randomly distribute any number of balanced teams from one group based on skill level
+
 import random
 
 # each list in 'lists' is a team. Add any numder of teams
@@ -20,49 +22,3 @@ for rank in ranks:
             counter += 1
 
 print(teams)
-
-
-
-
-
-
-
-
-
-# class players:
-#     def __init__(self, top_players, guys, girls, kids):
-#         self.top_players = []
-#         self.guys = []
-#         self.girls = []
-#         self.kids = []
-
-#     def get_top_players(self, top_players):
-#         return top_players
- 
-    
-
-# class top_players:
-#     def __init__(self, players):
-#         self.players = []
-
-#     def get_top_players(self):
-#         return players    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
