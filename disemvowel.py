@@ -1,3 +1,5 @@
+# Removes all vowel charecters from strings
+
 def disemvowel(string):
   new = ''
   for letter in string:
