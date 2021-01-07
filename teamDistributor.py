@@ -1,9 +1,12 @@
 # I wrote this function to randomly distribute any number of balanced teams from one group based on skill level
 
 import random
-
-# each list in 'lists' is a team. Add any numder of teams
-teams = [[], [], []]
+# enter number of teams
+num_teams = 3
+teams = []
+# each list in 'lists' is a team
+for i in range(num_teams):
+    teams += []
 
 # each list in 'ranks' is a skill level
 # enter names in appropriate list as strings separated by commas
