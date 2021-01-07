@@ -1,3 +1,5 @@
+# Toy problem to simulate art marketplace
+
 class Art:
   def __init__(self, artist, title, medium, year, owner):
     self.artist = artist
