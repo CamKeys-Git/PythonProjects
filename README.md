@@ -1,3 +1,3 @@
 # PythonProjects
 
-## Exercises and toy problems with Python
+## Exercises, toy problems and other projects with Python
